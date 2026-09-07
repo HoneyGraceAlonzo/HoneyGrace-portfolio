@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Grace</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About Me</h1>
+  </header>
+
+  <section>
+    <p>Hello! I'm Grace, an ESL Teacher passionate about helping students learn English in fun and engaging ways. 
+    I also work as a General Virtual Assistant and Social Media Manager, supporting businesses with organization, branding, and online growth.</p>
+  </section>
+
+  <nav>
+    <a href="index.html">Back to Home</a>
+  </nav>
+</body>
+</html>
